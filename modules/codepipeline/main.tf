@@ -132,3 +132,7 @@ resource "aws_codepipeline" "codepipeline" {
     }
   }
 }
+
+data "aws_s3_bucket" "state_bucket" {
+  bucket = "revature-terraform"
+}

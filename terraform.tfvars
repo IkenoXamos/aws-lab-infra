@@ -1,7 +1,7 @@
-org_name   = ""
-team_name  = ""
-project_id = ""
-region     = ""
+org_name   = "revature"
+team_name  = "matthew"
+project_id = "test"
+region     = "us-east-1"
 env = {
   "dev" = "dev"
   "qa"  = "qa"
